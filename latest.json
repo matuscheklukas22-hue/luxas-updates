@@ -1,6 +1,6 @@
 {
-  "modVersion": "1.40.7-luxas",
-  "modFile": "LUXASxCREMICH-1.40.7.jar",
-  "modUrl": "https://raw.githubusercontent.com/matuscheklukas22-hue/luxas-updates/main/LUXASxCREMICH-1.40.7.jar",
-  "notes": "Auto-Buy: .buy tippen kauft alle fehlenden Litematica-Materialien im AH"
+  "modVersion": "1.40.8-luxas",
+  "modFile": "LUXASxCREMICH-1.40.8.jar",
+  "modUrl": "https://raw.githubusercontent.com/matuscheklukas22-hue/luxas-updates/main/LUXASxCREMICH-1.40.8.jar",
+  "notes": "Neues Modul 'Schematic AutoBuy' in Kategorie Bot: Toggle an = Litematica-Materialien automatisch im /ah kaufen."
 }
