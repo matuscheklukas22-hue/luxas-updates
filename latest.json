@@ -1,6 +1,6 @@
 {
-  "modVersion": "1.40.1-luxas",
-  "modFile": "LUXASxCREMICH-1.40.1.jar",
-  "modUrl": "https://raw.githubusercontent.com/matuscheklukas22-hue/luxas-updates/main/LUXASxCREMICH-1.40.1.jar",
-  "notes": "Test-Update: 5 Module wieder drin (RepoHeads, Wintermodus, Music, Design, Updates)"
+  "modVersion": "1.40.2-luxas",
+  "modFile": "LUXASxCREMICH-1.40.2.jar",
+  "modUrl": "https://raw.githubusercontent.com/matuscheklukas22-hue/luxas-updates/main/LUXASxCREMICH-1.40.2.jar",
+  "notes": "Chat-Command .relist / .ah / .ahr oeffnet AH automatisch"
 }
