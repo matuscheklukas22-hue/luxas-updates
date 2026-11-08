@@ -1,6 +1,6 @@
 {
-  "modVersion": "1.40.5-luxas",
-  "modFile": "LUXASxCREMICH-1.40.5.jar",
-  "modUrl": "https://raw.githubusercontent.com/matuscheklukas22-hue/luxas-updates/main/LUXASxCREMICH-1.40.5.jar",
-  "notes": "Fix: screen-access via mc.gui.screen() (crash in 1.40.4 behoben)"
+  "modVersion": "1.40.7-luxas",
+  "modFile": "LUXASxCREMICH-1.40.7.jar",
+  "modUrl": "https://raw.githubusercontent.com/matuscheklukas22-hue/luxas-updates/main/LUXASxCREMICH-1.40.7.jar",
+  "notes": "Auto-Buy: .buy tippen kauft alle fehlenden Litematica-Materialien im AH"
 }
