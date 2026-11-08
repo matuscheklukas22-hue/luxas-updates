@@ -1,0 +1,56 @@
+===========================================================
+  LUXAS x CREMICH - Update-Server EINMALIG einrichten
+===========================================================
+
+WAS DU TUST (3 Minuten):
+
+1. Gehe zu  https://github.com/signup           (falls kein Konto)
+   Oder     https://github.com/login            (falls du eins hast)
+
+2. Oben rechts auf das "+" -> "New repository"
+   - Repository name:  luxas-updates
+   - Beschreibung:     LUXAS x CREMICH Updates
+   - Visibility:       Public  (MUSS public sein!)
+   - NICHT ankreuzen:  "Add a README file"
+   -> Create repository
+
+3. Auf der naechsten Seite siehst du deinen Github-Username
+   (z.B.  https://github.com/MeinName/luxas-updates)
+   NOTIERE DIR DIESEN NAMEN.
+
+4. PERSONAL ACCESS TOKEN (PAT) erstellen:
+   - Oben rechts dein Profilbild -> Settings
+   - Links ganz unten: Developer settings
+   - Personal access tokens -> Tokens (classic)
+   - Generate new token -> Generate new token (classic)
+   - Note:        luxas-updates-push
+   - Expiration:  90 days (oder No expiration)
+   - Scopes:      nur "repo" ankreuzen
+   - Generate token  (ganz unten)
+   - Kopiere den langen ghp_... Token SOFORT, er ist nur einmal sichtbar
+
+5. Doppelklick auf  UPDATE-PUSH.bat  in diesem Ordner.
+   Es fragt dich nach:
+   - Github Username:  (aus Schritt 3)
+   - PAT Token:        (aus Schritt 4, der ghp_... String)
+
+   Danach pusht es alles automatisch hoch.
+
+6. Am Ende zeigt es dir eine URL wie:
+   https://raw.githubusercontent.com/DEINNAME/luxas-updates/main/latest.json
+
+   Schick mir diese URL und ich trage sie in deinen Launcher ein.
+
+===========================================================
+  Fuer JEDE NEUE Version danach:
+===========================================================
+
+1. Neue .jar in diesen Ordner (C:\Users\User\luxas-updates) legen
+2. latest.json aufmachen und 3 Werte aendern:
+   - modVersion: neue Version
+   - modFile:    neuer Dateiname
+   - modUrl:     neue URL (nur Dateinamen am Ende aendern)
+   - notes:      was ist neu
+3. UPDATE-PUSH.bat doppelklicken -> fertig
+
+Alle deine User kriegen beim naechsten Launcher-Start den Banner.
