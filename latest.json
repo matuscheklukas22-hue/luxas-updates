@@ -1,6 +1,6 @@
 {
-  "modVersion": "1.40.4-luxas",
-  "modFile": "LUXASxCREMICH-1.40.4.jar",
-  "modUrl": "https://raw.githubusercontent.com/matuscheklukas22-hue/luxas-updates/main/LUXASxCREMICH-1.40.4.jar",
-  "notes": "Full Auto-AH: .ah -> /ah + abholen + /order + verkauf an teuersten"
+  "modVersion": "1.40.5-luxas",
+  "modFile": "LUXASxCREMICH-1.40.5.jar",
+  "modUrl": "https://raw.githubusercontent.com/matuscheklukas22-hue/luxas-updates/main/LUXASxCREMICH-1.40.5.jar",
+  "notes": "Fix: screen-access via mc.gui.screen() (crash in 1.40.4 behoben)"
 }
