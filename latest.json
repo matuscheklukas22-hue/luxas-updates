@@ -1,6 +1,6 @@
 {
-  "modVersion": "1.40.10-luxas",
-  "modFile": "LUXASxCREMICH-1.40.10.jar",
-  "modUrl": "https://raw.githubusercontent.com/matuscheklukas22-hue/luxas-updates/main/LUXASxCREMICH-1.40.10.jar",
-  "notes": "Materialien kaufen ist jetzt ein Button (nicht mehr Toggle). Faellt auf Litematica zurueck wenn Cremich 0 Bloecke liest."
+  "modVersion": "1.40.11-luxas",
+  "modFile": "LUXASxCREMICH-1.40.11.jar",
+  "modUrl": "https://raw.githubusercontent.com/matuscheklukas22-hue/luxas-updates/main/LUXASxCREMICH-1.40.11.jar",
+  "notes": "Fix: Litematica v7+ Size IntArray wird jetzt korrekt gelesen. SchematicBot sieht endlich die Bloecke."
 }
