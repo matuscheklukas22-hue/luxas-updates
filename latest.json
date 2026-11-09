@@ -1,6 +1,6 @@
 {
-  "modVersion": "1.40.14-luxas",
-  "modFile": "LUXASxCREMICH-1.40.14.jar",
-  "modUrl": "https://raw.githubusercontent.com/matuscheklukas22-hue/luxas-updates/main/LUXASxCREMICH-1.40.14.jar",
-  "notes": "Fix: AutoBuild net/web classes rausgenommen die cremich-load rejected haben."
+  "modVersion": "1.40.15-luxas",
+  "modFile": "LUXASxCREMICH-1.40.15.jar",
+  "modUrl": "https://raw.githubusercontent.com/matuscheklukas22-hue/luxas-updates/main/LUXASxCREMICH-1.40.15.jar",
+  "notes": "Neues Modul LUXAS Build (Kategorie Bot) - eigene Schematic-Auswahl + Materialien kaufen (umgeht cremich's broken BuildEngine)."
 }
