@@ -1,6 +1,6 @@
 {
-  "modVersion": "1.40.12-luxas",
-  "modFile": "LUXASxCREMICH-1.40.12.jar",
-  "modUrl": "https://raw.githubusercontent.com/matuscheklukas22-hue/luxas-updates/main/LUXASxCREMICH-1.40.12.jar",
-  "notes": "Size + Position IntArray fix. SchematicBot sollte jetzt alle Bloecke sehen."
+  "modVersion": "1.40.13-luxas",
+  "modFile": "LUXASxCREMICH-1.40.13.jar",
+  "modUrl": "https://raw.githubusercontent.com/matuscheklukas22-hue/luxas-updates/main/LUXASxCREMICH-1.40.13.jar",
+  "notes": "Cremich SchematicBot nutzt jetzt AutoBuild's Parser - alle Litematic Formate werden korrekt gelesen."
 }
