@@ -1,6 +1,6 @@
 {
-  "modVersion": "1.40.16-luxas",
-  "modFile": "LUXASxCREMICH-1.40.16.jar",
-  "modUrl": "https://raw.githubusercontent.com/matuscheklukas22-hue/luxas-updates/main/LUXASxCREMICH-1.40.16.jar",
-  "notes": "Fix: Item-Name via descriptionId statt ItemStack (ItemStack(Item) existiert nicht in MC 26.3)."
+  "modVersion": "1.40.18-luxas",
+  "modFile": "LUXASxCREMICH-1.40.18.jar",
+  "modUrl": "https://raw.githubusercontent.com/matuscheklukas22-hue/luxas-updates/main/LUXASxCREMICH-1.40.18.jar",
+  "notes": "AutoBuy: 2-step flow - klick billigstes -> warte BESTAETIGEN -> klick gruenen Haken (slot 15)."
 }
